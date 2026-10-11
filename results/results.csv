@@ -1,0 +1,6 @@
+Method,R@1,R@5,R@10,MedR,MeanR
+Baseline (ridge on mean GloVe),4.4,13.7,20.6,82.0,190.1
+GRU (random init),30.3,64.6,79.5,3.0,11.4
+GRU + GloVe,29.5,65.1,80.4,3.0,10.2
+LSTM + GloVe,31.1,66.2,80.3,3.0,10.2
+GRU + GloVe (order emb),32.3,67.1,80.7,3.0,9.7
