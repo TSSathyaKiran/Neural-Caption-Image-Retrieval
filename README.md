@@ -51,7 +51,7 @@ Roughly 1 to 1.5 hours on a T4. The notebook downloads the COCO annotations, str
 
 ### 2. Demo without retraining
 
-1. Download the trained bundle: **[demo_bundle.zip](https://colab.research.google.com/drive/1STIIrtJSGwBC50YNShepNDjqwjP_sfZQ?usp=drive_link)**
+1. Download the trained bundle: **[demo_bundle.zip](https://drive.google.com/file/d/11KbUwM87LbZNC1wxoW7pK6bzkVzY2N1q/view?usp=sharing)**
 2. Open `demo.ipynb`, either in Colab or locally.
 3. Colab: upload the zip to your Drive as `MyDrive/demo_bundle.zip`, then run all cells. Local: put `demo.ipynb` and `demo_bundle.zip` in the same folder and run all cells (CPU is enough).
 4. Edit the `query = "..."` cell and run it to search. The baseline's results are shown above the neural model's.
